@@ -42,7 +42,7 @@
 12. Fill the bucket detail.
 <br> ![Capture](Material/12.png) <br>
 
-13. Set the retention date and create the bucket
+13. Set the retention date and create the bucket.
 <br> ![Capture](Material/13.png) <br>
 
 14. Click next.
