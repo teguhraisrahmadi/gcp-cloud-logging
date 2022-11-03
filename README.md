@@ -60,34 +60,4 @@
 18. You can see, the bucket still 0 mb.
 <br> ![Capture](Material/18.png) <br>
 
-19. Done, Thanks
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Done, Thanks
